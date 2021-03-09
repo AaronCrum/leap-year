@@ -1,8 +1,5 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 6
- *  Description: 1. Determine if the given year is a leap year or not
+ *  Description: Determines if the given year is a leap year or not
 */
 
 import java.util.Scanner;
